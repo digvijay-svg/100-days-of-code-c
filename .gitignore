@@ -1,0 +1,23 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.a
+
+# Editor files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
